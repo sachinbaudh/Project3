@@ -1,9 +1,5 @@
 This is first update in the test file
 
-<<<<<<< HEAD
 New addition in branch1
-=======
-
 
 New line added in branch2
->>>>>>> branch2
